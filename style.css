@@ -1,0 +1,4 @@
+/*Make the "Show answer" button and answer paragraph invisible*/ 
+#show, #answer{
+  visibility: hidden;
+}
